@@ -1,0 +1,21 @@
+{
+  "name": "ClassPro",
+  "version": "0.1.0",
+  "description": "this a projects used by students",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "classpro",
+    "student",
+    "database",
+    "blog"
+  ],
+  "author": "ShivaniRaikar <raikarshivani@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7",
+    "hbs": "^2.8.0"
+  }
+}
